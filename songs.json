@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "title": "Just The Way You Are",
+        "artist": "Bruno Mars",
+        "file": "lagu1.mp3"
+    },
+    {
+
+        "id":2,
+        "title": "Penantian Berharga",
+        "artist": "Rizky Febian",
+        "file": "lagu2.mp3"
+    },
+    {
+        "id":3,
+        "title": "Kota Ini Tak Sama Tanpamu",
+        "artist": "Nadhif Basalamah",
+        "file": "lagu3.mp3"
+    },
+    {
+        "id":4,
+        "title": "Rasa Ini",
+        "artist": "Vierra",
+        "file": "lagu4.mp3"
+    },
+    {
+        "id":5,
+        "title": "Ada Titik Titik Di Ujung Doa",
+        "artist": "Sal Priadi",
+        "file": "lagu5.mp3"
+    },
+    {
+        "id":6,
+        "title": "Wajahmu Mengalihkan Duniaku",
+        "artist": "Afgan",
+        "file": "lagu6.mp3"
+    },
+    {
+        "id":7,
+        "title": "Monolog",
+        "artist": "Pamungkas",
+        "file": "lagu7.mp3"
+    },
+    {
+        "id":8,
+        "title": "Die On This Hill",
+        "artist": "SIENNA SPIRO",
+        "file": "lagu8.mp3"
+    },
+    {
+        "id":10,
+        "title": "Apocalypse",
+        "artist": "Cigarettes After Sex",
+        "file": "lagu10.mp3"
+    },
+    {
+        "id":9,
+        "title": "sex, drugs, etc.",
+        "artist": "Beach Weather",
+        "file": "lagu9.mp3"
+    }
+]
