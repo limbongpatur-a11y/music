@@ -3,61 +3,61 @@
         "id":1,
         "title": "Just The Way You Are",
         "artist": "Bruno Mars",
-        "file": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu1.mp3"
+        "url": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu1.mp3"
     },
     {
 
         "id":2,
         "title": "Penantian Berharga",
         "artist": "Rizky Febian",
-        "file": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu2.mp3"
+        "url": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu2.mp3"
     },
     {
         "id":3,
         "title": "Kota Ini Tak Sama Tanpamu",
         "artist": "Nadhif Basalamah",
-        "file": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu3.mp3"
+        "url": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu3.mp3"
     },
     {
         "id":4,
         "title": "Rasa Ini",
         "artist": "Vierra",
-        "file": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu4.mp3"
+        "url": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu4.mp3"
     },
     {
         "id":5,
         "title": "Ada Titik Titik Di Ujung Doa",
         "artist": "Sal Priadi",
-        "file": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu5.mp3"
+        "url": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu5.mp3"
     },
     {
         "id":6,
         "title": "Wajahmu Mengalihkan Duniaku",
         "artist": "Afgan",
-        "file": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu6.mp3"
+        "url": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu6.mp3"
     },
     {
         "id":7,
         "title": "Monolog",
         "artist": "Pamungkas",
-        "file": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu7.mp3"
+        "url": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu7.mp3"
     },
     {
         "id":8,
         "title": "Die On This Hill",
         "artist": "SIENNA SPIRO",
-        "file": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu8.mp3"
+        "url": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu8.mp3"
     },
     {
         "id":10,
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
-        "file": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu10.mp3"
+        "url": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu10.mp3"
     },
     {
         "id":9,
         "title": "sex, drugs, etc.",
         "artist": "Beach Weather",
-        "file": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu9.mp3"
+        "url": "https://raw.githubusercontent.com/limbongpatur-a11y/music/main/audio/lagu9.mp3"
     }
 ]
